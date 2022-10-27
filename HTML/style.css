@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:blueviolet
+}
+
+p{
+    color:blueviolet
+}
+
+.blah{
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+}
+
+.games{
+    background-color: azure;
+}
+
+.icons{
+    background-color: azure;
+    display: flex;
+    justify-content: flex-end;
+}
